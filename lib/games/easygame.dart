@@ -481,7 +481,7 @@ class _EasygamePageState extends State<EasygamePage>
       correct++;
       defaultanimationcolour = animatedcolourcorrect;
       defaulticon = corrrecticon;
-      Future.delayed(Duration(milliseconds: 100), () {
+      Future.delayed(Duration(milliseconds: 99), () {
         setState(() {
           defaultanimationcolour = Colors.transparent;
         });
