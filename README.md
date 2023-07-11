@@ -1,5 +1,8 @@
 ## Colour Game 
+
 A fun game which confuse your mind try easy and hard level games 
+--
+
 ### Features
 * A good Colourfull UI
 * Analysis of the game performence with a graphs
@@ -8,11 +11,16 @@ A fun game which confuse your mind try easy and hard level games
 * Earn points by completing daily challenges
 * Use the points to increase the time available for the game
 
-![image](https://github.com/Nikhithasriram/colourgame/assets/87708383/4b21aec6-67df-411c-ba1a-cf991634e833 )
-![image](https://github.com/Nikhithasriram/colourgame/assets/87708383/e9dae3ea-e87e-4356-9fa3-44f99b3f5a90)
-![image](https://github.com/Nikhithasriram/colourgame/assets/87708383/e8d8055b-2d21-44e1-8620-8e5238bb9a2c)
+-------
+
+<img src = "assets/images/img 2.jpg" width = 600>
+
+<img src = "assets/images/img 3.jpg" width = 600>
+
+<img src = "assets/images/img.jpg" width = 600>
 
 
+----------
 ## Getting Started
 
 This project is a starting point for a Flutter application.
